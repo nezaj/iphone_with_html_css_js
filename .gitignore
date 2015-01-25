@@ -1,0 +1,13 @@
+*.py[cod]
+
+# Editor detritus
+*~
+*#
+.#*
+.*.swp
+
+# OSX
+.DS_STORE
+
+# Example code
+examples
